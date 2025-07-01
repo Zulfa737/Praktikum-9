@@ -1,1 +1,2 @@
 Panjang: 10.0, Lebar: 6.0, Luas: 60.0
+Panjang: 10.0, Lebar: 6.0, Luas: 60.0
